@@ -1,1 +1,1 @@
-# tic-tac-toe-bot-java
+# Tic-tac-toe in Java
