@@ -1,3 +1,3 @@
 # Tic-tac-toe in Java
 
-Not open to contributed.
+Not open to contribute.
